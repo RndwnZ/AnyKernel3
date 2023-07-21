@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Liquid Kernel For Rosemary by fjrXTR
+kernel.string=Evolved Kernel For Viva By RnwdnZan
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=secret
-device.name2=rosemary
+device.name2=viva
 device.name3=maltose
 device.name4=
 device.name5=
