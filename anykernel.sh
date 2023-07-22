@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Evolved Kernel For Viva By RnwdnZan
+kernel.string=Kernel For Redmi Note 11 Pro By RnwdnZan
 do.devicecheck=1
 do.modules=0
 do.systemless=1
