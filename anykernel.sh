@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel For Redmi Note 11 Pro By RnwdnZan
+kernel.string=Kernel For Redmi Note 11 Pro 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=viva
 device.name3=maltose
 device.name4=
 device.name5=
-supported.versions=11.0-14.0
+supported.versions=11-14
 supported.patchlevels=
 '; } # end properties
 
